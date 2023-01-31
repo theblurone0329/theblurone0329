@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @theblurone0329
 - 👀 I’m interested in participating in projects to increase skillset
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+     Email : adrianfwl@gmail.com
+     Phone Number : 011-1087 8646
 
 ## Contact 📫
 <p>
-    <a href="mailto:adrianfwl@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
-    </a>
     <a href="https://www.linkedin.com/in/adrian-fu-425725a0/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
     </a>   
