@@ -6,7 +6,7 @@
 
 ## Contact 📫
 <p>
-    <a href="adrianfwl@gmail.com">
+    <a href="mailto:adrianfwl@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/adrian-fu-425725a0/">
