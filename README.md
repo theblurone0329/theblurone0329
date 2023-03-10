@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-     Email : adrianfwl@gmail.com
+     Email : adrianfwl0329@gmail.com
      Phone Number : 011-1087 8646
 
 ## Contact 📫
