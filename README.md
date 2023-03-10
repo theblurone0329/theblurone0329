@@ -18,7 +18,7 @@
 
 ## Resume 📄
 <p>
-    <a href="bla">
+    <a href="https://drive.google.com/file/d/14q-SLFbNxuUHPjQixI7AZxvtVpVRbbZ3/view?usp=share_link">
         <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
     </a>
 </p>
