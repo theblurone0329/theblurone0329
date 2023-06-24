@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theblurone0329
 - 👀 I’m interested in participating in projects to increase skillset
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently re-learning HTML, CSS, & JavaScript
+- 💞️ I’m currently learning Node.js and Mongo DB
 - 📫 How to reach me: 
      Email : adrianfwl0329@gmail.com
      Phone Number : 011-1087 8646
