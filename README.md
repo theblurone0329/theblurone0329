@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theblurone0329
+- 👋 Hi, I’m Adrian Fu
 - 👀 I’m interested in participating in projects to increase skillset
 - 🌱 I’m currently re-learning HTML, CSS, & JavaScript
 - 💞️ I’m currently learning Node.js and Mongo DB
